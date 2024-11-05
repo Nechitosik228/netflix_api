@@ -1,2 +1,2 @@
 from . import routes
-from .routes import app
+from .routes import app,film_router
